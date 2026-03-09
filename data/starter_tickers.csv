@@ -1,0 +1,11 @@
+symbol,name,group_name,subgroup_name,sort_order,is_active
+SPY,SPDR S&P 500 ETF,Equity,US Large Cap,1,1
+QQQ,Invesco QQQ Trust,Equity,US Growth,2,1
+IWM,iShares Russell 2000 ETF,Equity,US Small Cap,3,1
+DIA,SPDR Dow Jones ETF,Equity,US Blue Chip,4,1
+XLF,Financial Select Sector SPDR,Sector,Financials,5,1
+XLK,Technology Select Sector SPDR,Sector,Technology,6,1
+XLE,Energy Select Sector SPDR,Sector,Energy,7,1
+XLV,Health Care Select Sector SPDR,Sector,Healthcare,8,1
+TLT,iShares 20+ Year Treasury ETF,Bonds,US Treasuries,9,1
+GLD,SPDR Gold Shares,Commodities,Gold,10,1
